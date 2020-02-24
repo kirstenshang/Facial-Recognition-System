@@ -32,3 +32,6 @@ IphoneX(2017): Apple released the iPhone X in 2017, advertising face recognition
 (3) In 2009, the Pinellas County Sherriff’s Office created a forensic database that allowed officers to tap into the photo archives of the state’s Department of Highway Safety and Motor Vehicles (DHSMV). By 2011, about 170 deputies had been outfitted with cameras that let them take pictures of suspects that could be cross-checked against the the database. This resulted in more arrests and criminal investigations than would have otherwise been possible.
 
 (4)In 2011, the government of Panama, partnering with then-U.S. Secretary of Homeland Security Janet Napolitano, authorized a pilot program of FaceFirst’s facial recognition platform in order to cut down on illicit activity in Panama’s Tocumen airport (known as a hub for drug smuggling and organized crime). Shortly after implementation, the system resulted in the apprehension of multiple Interpol suspects. Pleased with the success of the initial deployment, FaceFirst expanded into the facility’s north terminal. The FaceFirst implementation at Tocumen remains the largest biometrics installation at an airport to date.
+
+![21582581306_.pic_hd.jpg]({{site.baseurl}}/21582581306_.pic_hd.jpg)
+
