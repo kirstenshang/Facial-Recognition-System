@@ -1,0 +1,6 @@
+2030, May 1st
+Ah it's another day working as a police in Amoy, Fujian, China. The new-tech glasses work incredibly well. It is our first day to wear this pair of magical glasses to work on the street as polices. This pair of glasses shows all the information about everyone I looked over on the street, and I put seven suspects into custody in just a day!! Isn't that amazing? Althought there might be a chance that none of the suspects is the criminal we are looking for. It was so hard to solve a case but now as this kind of glasses are largely put into use, I believe that catching criminals would be easier than ever and our community will be so much safer. 
+
+
+2030, May 1st
+Today is a big day for me. I just came back from the best plastic surgery hospital in Chicago. I finally got the beauty I have always wanted. But what follows is going to be exhausting...I have to go to all the agencies like banks, munipal governments to update my FaceId since all human beings started to prevalently use this kind of security now. And I have to do it soon because I need FaceID to access basically everything!
